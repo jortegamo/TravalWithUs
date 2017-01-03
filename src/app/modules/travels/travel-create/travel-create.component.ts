@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-travel-create',
   templateUrl: './travel-create.component.html',
-  styleUrls: ['./travel-create.component.css']
+  styleUrls: ['./travel-create.component.scss']
 })
 export class TravelCreateComponent implements OnInit {
 
